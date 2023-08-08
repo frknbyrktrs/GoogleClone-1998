@@ -5,7 +5,38 @@
     
 }
 .special-searches {
+    margin-top: 3px;
     float: left;
     margin-left: 120px;
     background-color: #7EE5DA;
+    width: 500px;
+    height: 80px;
+}
+
+.help {
+    float: left;
+    background-color: #70CCC2;
+    height: 80px;
+    margin-top: 3px;
+    margin-right: 2px;
+    margin-left: 2px;
+    width: 200px;
+}
+.get-g {
+    background-color: #62B3AA;
+    width: 575px;
+    float: left;
+    margin-top: 3px;
+}
+.button {
+    border-radius: 5px;
+    border: 1px solid;
+    font-weight: bold;
+}
+.en {
+    
+}
+span:active
+{
+    border: blue 4px;
 }
